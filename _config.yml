@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "George Findlay"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technology, Strategy, Capital."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
