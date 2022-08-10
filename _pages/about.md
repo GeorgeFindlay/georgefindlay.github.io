@@ -18,7 +18,7 @@ I currently work for a Public Research University. My prior commerical experienc
 - Master's degree in Computer Networks and Security from [Staffordshire University](https://staffs.ac.uk/)
 - Technical certifications in good standing: CCNP, ITIL
 
-## In-person HBS Case Study participation
+## In-person HBS Case Study Participation
 I always enjoy a good [HBS Case Study](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx). I've participated in the following case studies onsite in Boston:
 - [Trouble at Tessi](https://www.hbs.edu/faculty/Pages/item.aspx?num=48436) led by [Prof. E S. Bernstein](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=17441), attended 2019
 - [Candor at Clever](https://www.hbs.edu/faculty/Pages/item.aspx?num=54494) led by [Prof. E S. Bernstein](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=17441), attended 2022
