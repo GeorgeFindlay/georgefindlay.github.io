@@ -4,10 +4,11 @@ title: "About"
 ---
 
 ## Commerical Experience
-I currently work for a Public Research University. My prior commerical experience spans diverse industry verticals:
+I currently work in the Banking and Financial Services industry in Canada. My prior commerical experience spans diverse industry verticals:
 
 - Financial Services (Retail Payments, Payments Fraud, Clearing and Settlement)
 - Financial Services (Asset Management)
+- Academia
 - Legal Services
 - Logistics and Supply Chain
 - Manufacturing (Healthcare)
