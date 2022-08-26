@@ -1,5 +1,5 @@
 ---
-title: "My HBS Case Study History (to date)"
+title: "My HBS Case Study History (as of 2021)"
 date: 2021-05-20T15:37:30-04:00
 categories:
   - Blog
